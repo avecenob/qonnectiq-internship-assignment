@@ -17,3 +17,11 @@ $ npm install
 $ npm run dev
 ```
 
+Vite should run a server on localhost port 5173:
+```bash
+  VITE v7.1.7  ready in 550 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+```
